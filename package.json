@@ -1,0 +1,24 @@
+{
+  "name": "migrationsandseeds",
+  "version": "1.0.0",
+  "description": "Knexing the dots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradtxufl/migrationsandseeds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradtxufl/migrationsandseeds/issues"
+  },
+  "homepage": "https://github.com/bradtxufl/migrationsandseeds#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.17.3",
+    "pg": "^7.11.0"
+  }
+}
